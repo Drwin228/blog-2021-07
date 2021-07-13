@@ -1,0 +1,11 @@
+# basic options
+title: Class Schedule
+author:Dr. Nguyen's class
+email: Francoisclass@gmail.com
+description:Statistics class
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
