@@ -9,9 +9,13 @@ Happy Learning!
 
 Dr. Francois Nguyen
 
-Reasons:
-- its great.
-- its a test.
+Learning Objectives
+This module will be addressing the following learning objectives:
+
+-Getting to Know one another
+-Familiarizing the D2l Website
+-Registration MyMathLab
+C-lass expectation and responsibility
 
 ## Other thoughts
 
