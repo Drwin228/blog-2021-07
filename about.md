@@ -17,6 +17,12 @@ This module will be addressing the following learning objectives:
 - Registration MyMathLab
 - Class expectation and responsibility
 
-## Other thoughts
+## Getting Started Tasks
 
-This is great.
+In this Getting Started module you will learn about the course, your instructor, and what to expect this semester. Then you will begin your first module of the course.
+
+- Meet your Instructor opens in new window
+- Read your Course Syllabus opens in new window
+- Redshelf opens in new window
+- Getting Started Handout MyLabMastering
+- Read about student support services opens in new window
